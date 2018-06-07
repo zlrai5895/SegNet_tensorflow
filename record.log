@@ -1,0 +1,4 @@
+18-06-06 16:57-WARNING-From /home/zhanglei/tensorflow_practice/writed/segnet/SegNet/net.py:97: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+18-06-06 16:57-INFO-Restoring parameters from checkpoint/model.ckpt-5349
